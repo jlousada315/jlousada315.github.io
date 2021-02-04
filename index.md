@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Paper 1](https://arxiv.org/abs/2012.11364)
-[Paper 2](https://arxiv.org/abs/2012.10154)
+- [Paper 1](https://arxiv.org/abs/2012.11364)
+- [Paper 2](https://arxiv.org/abs/2012.10154)
 
 ---
 
@@ -23,11 +23,6 @@
 - [House Price Prediction](https://www.kaggle.com/joolousada/house-prices-prediction)
 - [Disaster Tweets](https://www.kaggle.com/joolousada/nlp-disaster-tweets-tf-idf-linearsvc)
 - [MNIST](https://www.kaggle.com/joolousada/mnist-digitrecognizer)
-
----
-
-
-
 
 ---
 
