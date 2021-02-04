@@ -19,11 +19,10 @@
 
 ### Kaggle Competitions
 
-- [Titanic](http://example.com/)
-- [House Price Prediction](http://example.com/)
-- [Disaster Tweets](http://example.com/)
-- [MNIST](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Titanic](https://www.kaggle.com/joolousada/titanic-predictions)
+- [House Price Prediction](https://www.kaggle.com/joolousada/house-prices-prediction)
+- [Disaster Tweets](https://www.kaggle.com/joolousada/nlp-disaster-tweets-tf-idf-linearsvc)
+- [MNIST](https://www.kaggle.com/joolousada/mnist-digitrecognizer)
 
 ---
 
