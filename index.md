@@ -5,11 +5,11 @@
 ### Test Case Prioritization with Machine Learning
 
 [Master-Thesis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tests_UMAP5.pdf?raw=true"/>
 
 ---
 [Thesis Presentation](/pdf/Thesis_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thesis_front.png?raw=true"/>
 
 ---
 - [Paper 1](https://arxiv.org/abs/2012.11364)
