@@ -1,6 +1,8 @@
 ## Portfolio
 
-[Take a look at my CV!](/pdf/CV_JoaoLousada.pdf)
+#### [Take a look at my CV!](/pdf/CV_JoaoLousada.pdf)
+
+
 ---
 
 ### Test Case Prioritization with Machine Learning
