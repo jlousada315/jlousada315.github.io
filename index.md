@@ -15,8 +15,10 @@
 <img src="images/thesis_front.png?raw=true"/>
 
 ---
-- [Paper 1](https://arxiv.org/abs/2012.11364)
-- [Paper 2](https://arxiv.org/abs/2012.10154)
+
+#### Paper Publications
+- [Neural Network Embeddings for Test Case Prioritization](https://arxiv.org/abs/2012.10154)
+- [Reinforcement Learning for Test Case Prioritization](https://arxiv.org/abs/2012.11364)
 
 ---
 
