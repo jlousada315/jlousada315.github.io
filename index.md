@@ -8,11 +8,11 @@
 ### Test Case Prioritization with Machine Learning
 
 [Master-Thesis](/sample_page)
-<img src="images/tests.png?raw=true"/>
+<img src="images/software.jpg?raw=true"/>
 
 ---
 [Thesis Presentation](/pdf/Thesis_presentation.pdf)
-<img src="images/software.png?raw=true"/>
+<img src="images/thesis_front.png?raw=true"/>
 
 ---
 
