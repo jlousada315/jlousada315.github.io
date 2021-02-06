@@ -12,7 +12,7 @@
 
 ---
 [Thesis Presentation](/pdf/Thesis_presentation.pdf)
-<img src="images/thesis_front.png?raw=true"/>
+<img src="images/software.png?raw=true"/>
 
 ---
 
