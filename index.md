@@ -1,4 +1,4 @@
-## Portfolio
+## Data Science Portfolio
 
 #### [Take a look at my CV!](/pdf/CV_JoaoLousada.pdf)
 
