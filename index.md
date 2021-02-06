@@ -41,3 +41,11 @@
 
 ---
 
+### Online Courses
+
+[Deep Learning A-Z](/pdf/deep_learning_certificate.pdf)
+[R Programming](/pdf/R_certificate.pdf)
+[NLP Course](/pdf/nlp_certificate.pdf)
+
+---
+
