@@ -34,10 +34,10 @@
 ---
 ### Kaggle Competitions
 
+- [Identifying File-Test Links](https://www.kaggle.com/joolousada/identifying-file-test-links)
 - [Titanic](https://www.kaggle.com/joolousada/titanic-predictions)
 - [House Price Prediction](https://www.kaggle.com/joolousada/house-prices-prediction)
 - [Disaster Tweets](https://www.kaggle.com/joolousada/nlp-disaster-tweets-tf-idf-linearsvc)
-- [MNIST](https://www.kaggle.com/joolousada/mnist-digitrecognizer)
 
 ---
 
