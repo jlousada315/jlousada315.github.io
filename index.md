@@ -20,7 +20,7 @@
 
 ### Dataset Contributions
 
-##### To enrich and contribute to broaden data availability, I published on Kaggle a Public Domain Dataset of File-Test Links in Continuous Integration Systems, along with a template notebook with my implementation.
+- To enrich and contribute to broaden data availability, I published on Kaggle a Public Domain Dataset of File-Test Links in Continuous Integration Systems, along with a template notebook with my implementation.
 
 - [Identify File-Test Links](https://www.kaggle.com/joolousada/filetest-links-in-regression-testing)
 
