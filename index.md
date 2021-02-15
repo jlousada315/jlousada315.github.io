@@ -6,11 +6,11 @@
 
 ### Project 1: Identifying File-Test Links
 
-1. **Context** [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) is used in software versioning systems like GitHub or SVN, where developers frequently commit code changes. Then, to make ensure proper code functioning, software tests are run. However in fast-paced industrial environments,  as teams and projects grow, testing strategies have to be optimized to not compromise performance. 
-2. **Goal** To cherry-pick which tests are more relevant in a given commit, by finding links between the files that were modified in a commit with the tests that were affected by those modifications, using machine learning (ML) algorithms.
-3. **ML Model** Supervised Learning Task - Neural Network Embeddings, implemented using Keras using real-world data.
-4. **Results** An expressive increase in performance relative to Random Testing. 
-5. **Impact** Detecting failing commits early-on saves a company a lot of time or significantly reduces costs related with computer power, having ecological impact. Moreover, there is also a human component: developers can commit with more confidence, knowing the probability of jeopardizing someone else's work is minimized, thus boosting productivity.
+1. **Context**: [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) is used in software versioning systems like GitHub or SVN, where developers frequently commit code changes. Then, to make ensure proper code functioning, software tests are run. However in fast-paced industrial environments,  as teams and projects grow, testing strategies have to be optimized to not compromise performance. 
+2. **Goal**: To cherry-pick which tests are more relevant in a given commit, by finding links between the files that were modified in a commit with the tests that were affected by those modifications, using machine learning (ML) algorithms.
+3. **ML Model**: Supervised Learning Task - Neural Network Embeddings, implemented using Keras using real-world data.
+4. **Results**: An expressive increase in performance relative to Random Testing. 
+5. **Impact**: Detecting failing commits early-on saves a company a lot of time or significantly reduces costs related with computer power, having ecological impact. Moreover, there is also a human component: developers can commit with more confidence, knowing the probability of jeopardizing someone else's work is minimized, thus boosting productivity.
 
 
 - [Identifying File-Test Links Notebook](https://www.kaggle.com/joolousada/identifying-file-test-links)
