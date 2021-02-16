@@ -29,13 +29,10 @@
 
 ### Master-Thesis: Test Case Prioritization with Machine Learning
 
-[Master-Thesis](/sample_page)
+- [Master-Thesis](/sample_page)
+- [Thesis Presentation](/pdf/Thesis_presentation.pdf)
+
 <img src="images/software.jpg?raw=true"/>
-
----
-
-[Thesis Presentation](/pdf/Thesis_presentation.pdf)
-<img src="images/thesis_front.png?raw=true"/>
 
 ---
 
