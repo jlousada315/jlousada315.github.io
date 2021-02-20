@@ -17,6 +17,23 @@
 
 ---
 
+### Project 2: Song-Recommendation Engine
+
+- **Context**: This is framework for a Song Recommendation Engine based on Spotify playlists, on the assumption that songs that appear in the same playlists are likely to be related. This end-to-end project starts by scrapping data from [Spotify's API](https://developer.spotify.com/documentation/web-api/), collecting over 200k playlists and 8.411.437 songs, creating a sqlite database to store them. After that, an off-the-shelf model [Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html) is trained so that songs that appear on the same context (i.e. same playlists) will have similar vector representations, much like words in sentences. Finally, a web application is deployed using [Streamlit](https://www.streamlit.io), where the recommendation engine can be tested. 
+- **Goal**: The goal is to, given a song provided by the user, recommend other songs based on similarity. 
+- **ML Model**: Word2Vec converts elements, e.g. words or songs, into high dimensional vectors and based on the context that they appear, these vectors are squeezed together based on similarity. For example, jazz songs are likely to have vectors that point in the same direction of the song space. 
+- **Results**: Given that a considerable amount of data was collected, recommendations seems to work very well, specially for popular songs that tend to be part of more playlists. To improve recommendation quality, more data should be collected from Spotify's API.
+- **Ready to Deploy**: Additionally, to simulate an industrial environment, this framework can be deployed to production as a web application, developed using Streamlit.
+
+
+<img src="images/spotify.jpg?raw=true"/>
+
+
+- [Song-Recommender Repo](https://github.com/jlousada315/song-recommendation-engine)
+
+
+---
+
 ### Dataset Contributions
 
 - To enrich and contribute to broaden data availability, I published on Kaggle a Public Domain Dataset of File-Test Links in Continuous Integration Systems, along with a template notebook with my implementation.
