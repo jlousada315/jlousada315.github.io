@@ -32,7 +32,7 @@
 
 
 - [Song-Recommender Repo](https://github.com/jlousada315/song-recommendation-engine)
-
+- [Check out some Recommendation Examples!](/images/merge_from_ofoct.jpg)
 
 ---
 
