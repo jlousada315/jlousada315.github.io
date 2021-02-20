@@ -11,6 +11,7 @@
 - **ML Model**: Supervised Learning Task - *Neural Network Embeddings*, implemented using Keras using real-world data.
 - **Results**: An expressive increase in performance relative to Random Testing. 
 - **Impact**: Detecting failing commits early-on saves a company a lot of time or significantly reduces costs related with computer power, having ecological impact. Moreover, there is also a human component: developers can commit with more confidence, knowing the probability of jeopardizing someone else's work is minimized, thus boosting productivity.
+- **Technology**: Keras, Dimensionality Reduction Techniques: TSNE and UMAP, pandas, SQL, matplotlib and seaborn.
 
 <img src="images/software.jpg?raw=true"/>
 
@@ -26,6 +27,8 @@
 - **ML Model**: Word2Vec converts elements, e.g. words or songs, into high dimensional vectors and based on the context that they appear, these vectors are squeezed together based on similarity. For example, jazz songs are likely to have vectors that point in the same direction of the song space. 
 - **Results**: Given that a considerable amount of data was collected, recommendations seems to work very well, specially for popular songs that tend to be part of more playlists. To improve recommendation quality, more data should be collected from Spotify's API.
 - **Ready to Deploy**: Additionally, to simulate an industrial environment, this framework can be deployed to production as a web application, developed using Streamlit.
+- **Technology**: Word2Vec, streamlit, sqlite3, spotipy, json and matplotlib.
+
 
 
 <img src="images/spotify.jpg?raw=true"/>
