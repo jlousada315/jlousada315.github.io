@@ -12,6 +12,8 @@
 - **Results**: An expressive increase in performance relative to Random Testing. 
 - **Impact**: Detecting failing commits early-on saves a company a lot of time or significantly reduces costs related with computer power, having ecological impact. Moreover, there is also a human component: developers can commit with more confidence, knowing the probability of jeopardizing someone else's work is minimized, thus boosting productivity.
 
+<img src="images/software.jpg?raw=true"/>
+
 
 - [Identifying File-Test Links Notebook](https://www.kaggle.com/joolousada/identifying-file-test-links)
 
@@ -47,8 +49,6 @@
 ### Master-Thesis: Test Case Prioritization with Machine Learning
 
 - [Master-Thesis](/sample_page)
-
-<img src="images/software.jpg?raw=true"/>
 
 ---
 
