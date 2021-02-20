@@ -11,7 +11,7 @@
 - **ML Model**: Supervised Learning Task - *Neural Network Embeddings*, implemented using Keras using real-world data.
 - **Results**: An expressive increase in performance relative to Random Testing. 
 - **Impact**: Detecting failing commits early-on saves a company a lot of time or significantly reduces costs related with computer power, having ecological impact. Moreover, there is also a human component: developers can commit with more confidence, knowing the probability of jeopardizing someone else's work is minimized, thus boosting productivity.
-- **Technology**: Keras, Dimensionality Reduction Techniques: TSNE and UMAP, pandas, SQL, matplotlib and seaborn.
+- **Technology**: Keras, scikit-learn, numpy, pandas, SQL, T-SNE and UMAP, matplotlib and seaborn.
 
 <img src="images/software.jpg?raw=true"/>
 
