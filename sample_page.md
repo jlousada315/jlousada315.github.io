@@ -17,3 +17,7 @@ from a fellowship of the BNP Paribas, in the framework of the IST Technology Tra
 ## Thesis Document PDF
 
 - [Master-Thesis](https://github.com/jlousada315/Master_Thesis)
+
+## Thesis Presentation
+
+- [Thesis Presentation](/pdf/Thesis_presentation.pdf)
