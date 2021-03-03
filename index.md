@@ -75,4 +75,5 @@
 2. [R Programming](/pdf/R_certificate.pdf)
 3. [NLP Course](/pdf/nlp_certificate.pdf)
 4. [SQL Bootcamp 2021](/images/sql.pdf)
+
 ---
