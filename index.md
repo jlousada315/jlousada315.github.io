@@ -1,6 +1,6 @@
 ## Data Science Portfolio
 
-#### [Take a look at my CV!](/pdf/CV_JoaoLousada.pdf)
+#### [Take a look at my CV!](/pdf/CV_JoaoLousada__public__.pdf)
 
 ---
 
